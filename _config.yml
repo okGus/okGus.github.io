@@ -18,3 +18,14 @@ linkedin_username: gus-rosales
 
 about_content: |
   dud test
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Weather Dashboard
+        link: https://github.com/okGus/Weather-Dashboard
+        link_text: here test
+        description: Developed a web application to show current weather |
+          Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code

@@ -7,6 +7,12 @@ plugins:
 content: 
   - title: Projects
 
+# Personal info
 name: Gustavo Rosales
 email: rosalesagustavo@gmail.com
 phone: (347)-376-3398
+
+# Social links
+github_username: okGus
+linkedin_username: gus-rosales
+

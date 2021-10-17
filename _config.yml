@@ -16,6 +16,7 @@ phone: (347)-376-3398
 github_username: okGus
 linkedin_username: gus-rosales
 
+# About Section
 about_content: |
   dud test
 
@@ -29,3 +30,47 @@ content:
         link_text: here test
         description: Developed a web application to show current weather |
           Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Nordstrom Rack
+        sub_title: Sales Person
+        caption: Sep 2017 - Jun 2019
+  - title: Education
+    layout: list
+    content: 
+      - layout: top-right
+        title: CUNY College of Staten Island
+        sub_title: BA Computer Science
+
+# About Section
+#about_content: | # this will include new lines to allow paragraphs
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  
+#content:
+  
+#  - title: Experience
+#    layout: list
+#    content:
+#      - layout: right
+#        title: Company name
+#        sub_title: Job title
+#        caption: Date Range (eg. November 2016 - present)
+#        link: Link to company (optional)
+#        quote: >
+#          Short description of the company (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of role
+#  - title: Education
+#    layout: list
+#    content:
+#      - layout: top-right
+#        title: Institution name
+#        sub_title: Qualifications (eg. BA Performing Arts)
+#        caption: Date Range (eg. 2016 - 2019)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)

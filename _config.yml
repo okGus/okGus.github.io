@@ -29,13 +29,13 @@ content:
         link_text: Github
         description: Developed a web application to show current weather |
           Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code
-  - title: Experience
+  - title: Supporting Experience
     layout: list
     content:
       - layout: right
         title: Nordstrom Rack
         sub_title: Sales Person
-        caption: Sep 2017 - Jun 2019
+        caption: Oct 2017 - Jun 2019
   - title: Education
     layout: list
     content: 

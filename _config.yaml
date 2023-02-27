@@ -31,8 +31,6 @@ content:
       - layout: left
         title: CUNY College of Staten Island
         sub_title: BA Computer Science
-      - layout: top-right
-        title: 2023
   - title: Projects
     layout: list
     content:

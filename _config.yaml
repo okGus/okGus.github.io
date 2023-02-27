@@ -29,7 +29,8 @@ content:
     layout: list
     content: 
       - layout: left
-        title: CUNY College of Staten Island
+        title: |
+          CUNY College of Staten Island
         sub_title: BA Computer Science
   - title: Projects
     layout: list

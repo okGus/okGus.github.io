@@ -42,7 +42,7 @@ content:
           Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code
       - layout: left
         title: Bug/Issue Tracker
-        link:
+        link: https://buugtracker.vercel.app/
         link_text: Site WIP
         description: |+
           Bug/Issue tracker

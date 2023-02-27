@@ -29,18 +29,11 @@ content:
     layout: list
     content: 
       - layout: left
-        title: |
-          CUNY College of Staten Island
+        title: CUNY College of Staten Island                    2023
         sub_title: BA Computer Science
   - title: Projects
     layout: list
     content:
-      - layout: left
-        title: Weather Dashboard
-        link: https://github.com/okGus/Weather-Dashboard
-        link_text: Github
-        description: Developed a web application to show current weather |
-          Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code
       - layout: left
         title: Bug/Issue Tracker
         link: https://buugtracker.vercel.app/
@@ -51,7 +44,34 @@ content:
 
           Using Next.js, I developed both the front-end and back-end components of the app. I also incorporated a 3rd party platform, Auth0, for login authentication and authorization. Additionally, 
           I utilized MongoDB to track and store the tickets, and Prisma to connect to the database. To ensure seamless client-server interactions, I leveraged tRPC technology.
-  
+      - layout: left
+        title: RealorFake
+        link: https://github.com/okGus/realorfake
+        link_test: Github
+        description: |+
+          Developed a web application between October and December 2021
+          The application used machine learning to predict whether an image was altered or not
+          Employed ResNet, a pre-trained model, to train thousands of real and fake images
+          Used Python and Flask to build the web application
+          Utilized Google Collab as the platform for training the model
+      - layout: left
+        title: Post COVID Ally, Hackathon
+        link: https://github.com/okGus/post-covid-ally
+        link_text: Github
+        description: |+
+          As a member of a team of three, I designed a web-based chat application to connect users and support each other's mental health after the pandemic. The application was developed using React for the frontend, providing a seamless user experience.
+          To ensure user privacy, Firebase was used to store messages exchanged between users. This allowed users to connect with one another and provide emotional support in a safe and confidential environment.
+          Our team named the application "Post-COVID Ally," and we showcased it during the CTP Hackathon in August 2021. The project was well-received and provided a valuable resource for individuals struggling with the mental health impacts of the pandemic.
+      - layout: left
+        title: Weather Dashboard
+        link: https://github.com/okGus/Weather-Dashboard
+        link_text: Github
+        description: |+
+          Developed a web application to display current weather and forecasts based on zip code
+          Utilized HTML, CSS, Flask, and Python to create the application
+          Integrated the OpenWeatherMap API to collect weather data
+          Designed a user-friendly interface to display weather information
+          Completed the project within the timeframe of June 2021 to August 2021
   - title: Supporting Experience
     layout: list
     content:

@@ -24,6 +24,13 @@ about_content: |+
   cybersecurity course.
 
 content:          
+  - title: Education
+    layout: list
+    content: 
+      
+      - layout: top-right
+        title: CUNY College of Staten Island
+        sub_title: BA Computer Science
   - title: Projects
     layout: list
     content:
@@ -42,6 +49,7 @@ content:
 
           Using Next.js, I developed both the front-end and back-end components of the app. I also incorporated a 3rd party platform, Auth0, for login authentication and authorization. Additionally, 
           I utilized MongoDB to track and store the tickets, and Prisma to connect to the database. To ensure seamless client-server interactions, I leveraged tRPC technology.
+  
   - title: Supporting Experience
     layout: list
     content:
@@ -49,12 +57,6 @@ content:
         title: Nordstrom Rack
         sub_title: Sales Person
         caption: Oct 2017 - Jun 2019
-  - title: Education
-      layout: list
-      content: 
-        - layout: top-right
-          title: CUNY College of Staten Island
-          sub_title: BA Computer Science
 
 # About Section
 #about_content: | # this will include new lines to allow paragraphs

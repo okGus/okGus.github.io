@@ -23,6 +23,8 @@ about_content: |+
   Joined CUNY Tech Prep (CTP) were I was taught in demand technologies related  to data science and machine learning. Created a web based app designed to detect if an image was real or fake using machine learning. After CTP I 
   decided to make a web based bug/issue tracker, learn front-end and back-end, and new technologies and frameworks. Joined CodePath for an intermediate 
   cybersecurity course.
+working_on: |+
+  testing
 
 content:          
   - title: Education
@@ -32,11 +34,6 @@ content:
         title: CUNY College of Staten Island
         sub_title: BA Computer Science
         caption: 2023
-  - title: What I'm working on
-    layout: list
-    content: 
-      - layout: top-left
-        description: test 
   - title: Projects
     layout: list
     content:

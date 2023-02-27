@@ -1,0 +1,8 @@
+<div class="container workingon-container">
+  <h3>{{ site.working_on_title | default: "What I'm currently working on" }}</h3>
+  <div class="row clearfix">
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {{ site.working_on | strip | markdownify }}
+    </div>
+  </div>
+</div>

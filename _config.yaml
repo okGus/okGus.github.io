@@ -35,8 +35,8 @@ content:
   - title: What I'm working on
     layout: list
     content: 
-      - layout: left
-        description: test
+      - layout: top-left
+        description: test 
   - title: Projects
     layout: list
     content:

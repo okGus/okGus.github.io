@@ -30,6 +30,7 @@ content:
         - layout: top-right
           title: CUNY College of Staten Island
           sub_title: BA Computer Science
+          
   - title: Projects
     layout: list
     content:
@@ -48,6 +49,7 @@ content:
 
           Using Next.js, I developed both the front-end and back-end components of the app. I also incorporated a 3rd party platform, Auth0, for login authentication and authorization. Additionally, 
           I utilized MongoDB to track and store the tickets, and Prisma to connect to the database. To ensure seamless client-server interactions, I leveraged tRPC technology.
+  
   - title: Supporting Experience
     layout: list
     content:

@@ -29,6 +29,15 @@ content:
         link_text: Github
         description: Developed a web application to show current weather |
           Created a web application using HTML, CSS, Flask, and Python with the OpenWeatherMap API to display the current weather and forecasts based on zip code
+      - layout: left
+        title: Bug/Issue Tracker
+        link:
+        link_text: Site WIP
+        description: Bug/Issue tracker
+          From Jun 2022 to Oct 2022, I undertook a project to create a Bug/Issue Tracker. My responsibilities included designing and implementing a web application to enable users to track and manage bugs and issues.
+
+          Using Next.js, I developed both the front-end and back-end components of the app. I also incorporated a 3rd party platform, Auth0, for login authentication and authorization. Additionally, 
+          I utilized MongoDB to track and store the tickets, and Prisma to connect to the database. To ensure seamless client-server interactions, I leveraged tRPC technology.
   - title: Supporting Experience
     layout: list
     content:

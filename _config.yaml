@@ -26,14 +26,12 @@ about_content: |+
 
 content:          
   - title: Education
-    layout: list
+    layout: text
     content: 
       - layout: left
         title: CUNY College of Staten Island
         sub_title: BA Computer Science
         caption: 2023
-      - layout: top-right
-        title: test
   - title: What I'm working on
     layout: list
     content: 

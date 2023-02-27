@@ -25,15 +25,13 @@ about_content: |+
   cybersecurity course.
 working_on: |+
   testing
+education:
+  - layout: left
+    title: CUNY College of Staten Island
+    sub_title: BA Computer Science
+    caption: 2023
 
 content:          
-  - title: Education
-    layout: list
-    content: 
-      - layout: left
-        title: CUNY College of Staten Island
-        sub_title: BA Computer Science
-        caption: 2023
   - title: Projects
     layout: list
     content:

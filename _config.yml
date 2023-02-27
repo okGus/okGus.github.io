@@ -17,7 +17,11 @@ linkedin_username: gus-rosales
 
 # About Section
 about_content: |
-  dud test
+  Started in high school learning to code, self taught, my school didn't have a course. My software project portfolio increased during college. 
+  Created a mini-text based editor like with VIM like functionality. Joined CUNY Tech Prep (CTP) were I was taught in demand technologies related 
+  to data science and machine learning. Created a web based app designed to detect if an image was real or fake using machine learning. After CTP I 
+  decided to make a web based bug/issue tracker, learn front-end and back-end, and new technologies and frameworks. Joined CodePath for an intermediate 
+  cybersecurity course.
 
 content:
   - title: Projects

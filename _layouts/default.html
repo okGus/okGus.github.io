@@ -31,7 +31,9 @@
           <h3>{{ section.title }}</h3>
           {% for con in section.content %}
             <h4> {{ con.title }}</h4>
-            <b> {{ con.sub_title }}</b>
+            <h5>
+              <b> {{ con.sub_title }}</b>
+            </h5>
           {%- endfor -%}
         </div>
       {%- endfor -%}

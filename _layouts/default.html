@@ -27,7 +27,7 @@
         </div>
       {%- endfor -%}
       {%- for section in site.content_works -%}
-        <div class="container {{ section.layout }}-container-projects style='position: relative' ">
+        <div class="container {{ section.layout }}-container-projects style="position: relative;" ">
           <h3>{{ section.title }}</h3>
           {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content style="position:relative" %}
         </div>

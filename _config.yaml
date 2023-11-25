@@ -36,7 +36,7 @@ education: |+
     
     B.S. Computer Science
 
-content:          
+content_projects:          
   - title: Projects
     layout: list
     content:
@@ -110,6 +110,7 @@ content:
           Integrated the OpenWeatherMap API to collect weather data
           Designed a user-friendly interface to display weather information
           Completed the project within the timeframe of June 2021 to August 2021
+content_work:
   - title: Technical Related Experience
     layout: list
     content:

@@ -114,7 +114,7 @@ content_works:
   - title: Technical Related Experience
     layout: list
     content:
-      - layout: left
+      - layout: center
         title: Google Software Engineering Program (G-SWEP) via ProjectBasta
         sub_title: Software Engineering Fellow
         caption: Mar 2023 - Sep 2023

@@ -28,6 +28,8 @@ about_content: |+
   I like to learn new languages whether through advent of code, hackathons, or just personal projects.
 working_on: |+
   Studying quantum computing through the year long program at Qubit x Qubit from The Coding School that is sponsored by Google AI where we get to learn the library Criq and learn about the quantum properties and how they are used in quantum computing.
+
+  Currently a Software Developer at Entrepreneurs of Tomorrow via Virtual Interships - Unpaid
 education_year: 2023
 education: |+
     CUNY College of Staten Island
@@ -39,9 +41,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: Message Board
+        link: https://github.com/okGus/message-board
+        link_text: GH Link
+        description: |+
+          Developed PHP social web app in team of 2 for users post, likes, and comments on content shared content
+          Stored users’ login, posts, and engagement activity in MySQL to save information for specific user access
+          Built username availability checker for with JavaScript to differentiate accounts when signing up
+      - layout: left
         title: Bug/Issue Tracker
         link: https://buugtracker.vercel.app/
-        link_text: Site WIP
+        link_text: Site
         description: |+
           Bug/Issue tracker
           From Jun 2022 to Oct 2022, I undertook a project to create a Bug/Issue Tracker. My responsibilities included designing and implementing a web application to enable users to track and manage bugs and issues.

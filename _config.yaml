@@ -21,17 +21,13 @@ about_content: |+
 
   Started in high school learning to code in Java, my school didn't have a classes in programming so when I learned about College Now, a where I could take college classes for credit, I took that chance in Lehman College.
   
-  Joined CUNY Tech Prep (CTP) were I was taught in demand technologies related  to data science and machine learning. Created a web based app designed to detect if an image was real or fake using machine learning. After CTP I 
+  Towards my end of my college years I joined CUNY Tech Prep (CTP) were I was taught in demand technologies related  to data science and machine learning. Created a web based app designed to detect if an image was real or fake using machine learning. After CTP I 
   decided to make a web based bug/issue tracker, learn front-end and back-end, and new technologies and frameworks. Joined CodePath for an intermediate 
   cybersecurity course.
+
+  I like to learn new languages whether through advent of code, hackathons, or just personal projects.
 working_on: |+
-  Studying Scala programming language, started last year 2022, on december, doing Advent of Code.
-  
-  Working on a Machine Learning/AI project, ASL gesture recognition, might put it as an API, I don't know yet.
-  
-  Learning PHP, lecture HW but it's quite easy.
-  
-  Currently on a 10-week course with Codepath in Web Development.
+  Studying quantum computing through the year long program at Qubit x Qubit from The Coding School that is sponsored by Google AI where we get to learn the library Criq and learn about the quantum properties and how they are used in quantum computing.
 education_year: 2023
 education: |+
     CUNY College of Staten Island

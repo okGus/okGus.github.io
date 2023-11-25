@@ -34,7 +34,9 @@
             <p>
               <b> {{ con.sub_title }}</b>
             </p>
-            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.description %}
+            <div>
+              {{ con.description }}
+            </div>
           {%- endfor -%}
         </div>
       {%- endfor -%}

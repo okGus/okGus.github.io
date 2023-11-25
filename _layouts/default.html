@@ -29,7 +29,10 @@
       {%- for section in site.content_works -%}
         <div class="container {{ section.layout }}-container-works">
           <h3>{{ section.title }}</h3>
-          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+          {% for con in section %}
+            <h4> {{ con.title }}</h4>
+            <b> {{ con.sub_title }}</b>
+          {%- endfor -%}
         </div>
       {%- endfor -%}
       

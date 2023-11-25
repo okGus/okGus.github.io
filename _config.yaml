@@ -98,7 +98,9 @@ content_projects:
         link_text: GH Link
         description: |+
           As a member of a team of three, I designed a web-based chat application to connect users and support each other's mental health after the pandemic. The application was developed using React for the frontend, providing a seamless user experience.
+          
           To ensure user privacy, Firebase was used to store messages exchanged between users. This allowed users to connect with one another and provide emotional support in a safe and confidential environment.
+          
           Our team named the application "Post-COVID Ally," and we showcased it during the CTP Hackathon in August 2021. The project was well-received and provided a valuable resource for individuals struggling with the mental health impacts of the pandemic.
       - layout: left
         title: Weather Dashboard
@@ -106,9 +108,13 @@ content_projects:
         link_text: GH Link
         description: |+
           Developed a web application to display current weather and forecasts based on zip code
+          
           Utilized HTML, CSS, Flask, and Python to create the application
+          
           Integrated the OpenWeatherMap API to collect weather data
+          
           Designed a user-friendly interface to display weather information
+          
           Completed the project within the timeframe of June 2021 to August 2021
 content_works:
   - title: Technical Related Experience

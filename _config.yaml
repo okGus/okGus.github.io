@@ -110,13 +110,16 @@ content:
           Integrated the OpenWeatherMap API to collect weather data
           Designed a user-friendly interface to display weather information
           Completed the project within the timeframe of June 2021 to August 2021
-  - title: Supporting Experience
+  - title: Technical Related Experience
     layout: list
     content:
-      - layout: right
-        title: Nordstrom Rack
-        sub_title: Sales Person
+      - layout: left
+        title: Google Software Engineering Program (G-SWEP) via ProjectBasta
+        sub_title: Software Engineering Fellow
         caption: Oct 2017 - Jun 2019
+        description: |+
+          ● Engaged in a 10-week technical mentoring program with over 70 fellows, focusing on mastering foundational data structures and algorithms, while also honing interview skills to effectively showcase expertise
+          ● Pair with Google SWE mentor with to coordinate technical and professional development through weekly check-ins on progress towards develop software engineering skill set
 
 # About Section
 #about_content: | # this will include new lines to allow paragraphs

@@ -14,7 +14,13 @@
       {%- include education.html -%}
       {%- include workingon.html -%}
       
-      {%- for section in site.content -%}
+<!--       {%- for section in site.content -%}
+        <div class="container {{ section.layout }}-container">
+          <h3>{{ section.title }}</h3>
+          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+        </div>
+      {%- endfor -%} -->
+      {%- for section in site.content_projects -%}
         <div class="container {{ section.layout }}-container">
           <h3>{{ section.title }}</h3>
           {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}

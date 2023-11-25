@@ -41,12 +41,32 @@ content:
     layout: list
     content:
       - layout: left
+        title: Unofficial Twitch API
+        link: https://github.com/okGus/rapidTwitchAPI
+        link_text: GH Link
+        description: |+
+          Created a web scraping solution for extracting data from Twitch.tv, emphasizing live channels within specific categories and popular content
+        
+          Utilized Playwright, chrome-aws-lambda, and Docker to implement advanced web scraping logic.
+        
+          Designed and executed a strategic approach to extract dynamic information including viewership statistics, video titles, and category details from Twitch.tv web pages
+      - layout: left
+        title: Portfolio Manager
+        link: https://github.com/okGus/bb-tech-lab
+        link_text: GH Link
+        description: |+
+          Implemented a market value calculation for different securities (positions, accounts, and portfolio)
+          
+          Designed an interactive graph of the market value over time of the different securities using BQPlo
+      - layout: left
         title: Message Board
         link: https://github.com/okGus/message-board
         link_text: GH Link
         description: |+
           Developed PHP social web app in team of 2 for users post, likes, and comments on content shared content
+          
           Stored users’ login, posts, and engagement activity in MySQL to save information for specific user access
+          
           Built username availability checker for with JavaScript to differentiate accounts when signing up
       - layout: left
         title: Bug/Issue Tracker
@@ -61,17 +81,21 @@ content:
       - layout: left
         title: RealorFake
         link: https://github.com/okGus/realorfake
-        link_test: Github
+        link_test: GH Link
         description: |+
           Developed a web application between October and December 2021
+          
           The application used machine learning to predict whether an image was altered or not
+          
           Employed ResNet, a pre-trained model, to train thousands of real and fake images
+          
           Used Python and Flask to build the web application
+          
           Utilized Google Collab as the platform for training the model
       - layout: left
         title: Post COVID Ally, Hackathon
         link: https://github.com/okGus/post-covid-ally
-        link_text: Github
+        link_text: GH Link
         description: |+
           As a member of a team of three, I designed a web-based chat application to connect users and support each other's mental health after the pandemic. The application was developed using React for the frontend, providing a seamless user experience.
           To ensure user privacy, Firebase was used to store messages exchanged between users. This allowed users to connect with one another and provide emotional support in a safe and confidential environment.
@@ -79,7 +103,7 @@ content:
       - layout: left
         title: Weather Dashboard
         link: https://github.com/okGus/Weather-Dashboard
-        link_text: Github
+        link_text: GH Link
         description: |+
           Developed a web application to display current weather and forecasts based on zip code
           Utilized HTML, CSS, Flask, and Python to create the application

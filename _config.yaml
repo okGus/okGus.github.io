@@ -136,7 +136,7 @@ content_works:
         title: Data Science Fellow
         sub_title: CUNY Tech Prep
         caption: Jun 2021 – May 2022
-        description: >
+        description: |>
           ● Learned in-demand technologies like Python 3, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA)
             
           ● Utilized industry best practices such as feature engineering and machine learning techniques to create 2 applications, RealOrFake and ASL Gesture Recognition

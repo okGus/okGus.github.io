@@ -40,7 +40,9 @@
             <p>
               <b> {{ con.sub_title }}</b>
             </p>
-            {{ con.description }}
+            {% for b in con.description %}
+              <ul>b</ul>
+            {%- endfor -%}
           {%- endfor -%}
         </div>
       {%- endfor -%}

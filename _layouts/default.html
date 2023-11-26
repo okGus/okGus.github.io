@@ -26,13 +26,13 @@
           {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
         </div>
       {%- endfor -%}
-      {%- for section in site.content_works -%}
+<!--       {%- for section in site.content_works -%}
         <div class="container {{ section.layout }}-container-projects">
           <h3>{{ section.title }}</h3>
           {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
         </div>
-      {%- endfor -%}
-<!--       {%- for section in site.content_works -%}
+      {%- endfor -%} -->
+      {%- for section in site.content_works -%}
         <div class="container {{ section.layout }}-container-works">
           <h3>{{ section.title }}</h3>
           {% for con in section.content %}
@@ -40,10 +40,11 @@
             <p>
               <b> {{ con.sub_title }}</b>
             </p>
+            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=con.description %}
             <p>{{ con.description }}</p>
           {%- endfor -%}
         </div>
-      {%- endfor -%} -->
+      {%- endfor -%}
       
     </div
   </main>

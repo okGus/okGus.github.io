@@ -124,7 +124,7 @@ content_works:
         title: Google Software Engineering Program (G-SWEP) via ProjectBasta
         sub_title: Software Engineering Fellow
         caption: Mar 2023 - Sep 2023
-        description: 
+        description: |
           - Engaged in a 10-week technical mentoring program with over 70 fellows, focusing on mastering foundational data structures and algorithms, while also honing interview skills to effectively showcase expertise
           - Pair with Google SWE mentor with to coordinate technical and professional development through weekly check-ins on progress towards develop software engineering skill set
       - layout: left

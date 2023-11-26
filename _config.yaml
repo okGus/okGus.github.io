@@ -131,22 +131,18 @@ content_works:
         title: Bloomberg Engineering Princeton Tech Lab Fellow
         sub_title: Bloomberg LP
         caption: June 2023 - July 2023
-        description: |+
-          ● Selected to be 1 of 38 software engineers to attend a 3-day intensive Tech Lab at Bloomberg Engineering's Princeton Campus
-            
-          ● Collaborated with Bloomberg engineers + peers to build an Python based portfolio manager to keep track of Security, Position, Account, and Portfolio
-            
-          ● Attended interactive sessions focused technical SWE interview skills + tech talks
+        description: 
+          - Selected to be 1 of 38 software engineers to attend a 3-day intensive Tech Lab at Bloomberg Engineering's Princeton Campus  
+          - Collaborated with Bloomberg engineers + peers to build an Python based portfolio manager to keep track of Security, Position, Account, and Portfolio  
+          - Attended interactive sessions focused technical SWE interview skills + tech talks
       - layout: left
         title: Data Science Fellow
         sub_title: CUNY Tech Prep
         caption: Jun 2021 – May 2022
-        description: |+
-          ● Learned in-demand technologies like Python 3, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA)
-            
-          ● Utilized industry best practices such as feature engineering and machine learning techniques to create 2 applications, RealOrFake and ASL Gesture Recognition
-            
-          ● Live demoed RealOrFake app with team of 2 in front 20+ students and technical partners
+        description: 
+          - Learned in-demand technologies like Python 3, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA)  
+          - Utilized industry best practices such as feature engineering and machine learning techniques to create 2 applications, RealOrFake and ASL Gesture Recognition
+          - Live demoed RealOrFake app with team of 2 in front 20+ students and technical partners
 # About Section
 #about_content: | # this will include new lines to allow paragraphs
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.

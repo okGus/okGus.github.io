@@ -29,7 +29,7 @@ about_content: |+
 working_on: |+
   Studying quantum computing through the year long program at Qubit x Qubit from The Coding School that is sponsored by Google AI where we get to learn the library Criq and learn about the quantum properties and how they are used in quantum computing.
 
-  Currently a Software Developer at Entrepreneurs of Tomorrow via Virtual Interships - Unpaid
+  Working on a algorithm visualizer
 education_year: 2023
 education: |+
     CUNY College of Staten Island
@@ -40,6 +40,12 @@ content_projects:
   - title: Projects
     layout: list
     content:
+      - layout: left
+        title: Algorithm Visualizer (WIP)
+        link: 
+        link_text: GH Link
+        description: |+
+          WIP
       - layout: left
         title: Unofficial Twitch API
         link: https://github.com/okGus/rapidTwitchAPI
@@ -120,6 +126,14 @@ content_works:
   - title: Technical Related Experience
     layout: list
     content:
+      - layout: left
+        title:
+        sub_title: Software Developer
+        caption: Oct 2023 - Dec 2023
+        description:
+          - Partnered with the Founder of EOT and collaborated with Duke University students within the incubator designed for young entrepreneurs.
+          - Successfully integrated a third-party platform to facilitate the initial round of the incubator, allowing judges to evaluate and rank students businesses.
+          - Spearheaded the wireframing process for the development of the web application, focusing on implementing web3 technology within the learning platform.
       - layout: left
         title: Google Software Engineering Program (G-SWEP) via ProjectBasta
         sub_title: Software Engineering Fellow

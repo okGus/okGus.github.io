@@ -8,8 +8,8 @@
   display: inline-block;
   padding: 8px 16px;
   background-color: #ffffff; /* White background */
-  color: #4b4b4b !important; /* Gray text color */
-  text-decoration: none !important;
+  color: #4b4b4b; /* Gray text color */
+  text-decoration: none;
   font-size: 14px;
   font-weight: bold;
   border: 1px solid #000000; /* Black border */
@@ -20,6 +20,7 @@
 .custom-link:hover {
   background-color: #f0f0f0; /* Lighter gray background on hover */
   border: 2px solid #000000; /* Bolder border on hover */
+  text-decoration: none;
 }
 
 

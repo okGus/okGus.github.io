@@ -40,7 +40,10 @@ education: |+
     
     B.S. Computer Science
 
-cert_one: Cloud Computing Fundamentals
+cert_one: |+
+  Cloud Computing Fundamentals
+
+  IBM
 issuer_one: IBM
 issuer_one_link: wip
 issue_date_one: Issued Jan 2024

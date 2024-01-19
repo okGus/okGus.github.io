@@ -20,18 +20,6 @@
           {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
         </div>
       {%- endfor -%} -->
-      {%- for section in site.content_projects -%}
-        <div class="container {{ section.layout }}-container-projects">
-          <h3>{{ section.title }}</h3>
-          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
-        </div>
-      {%- endfor -%}
-<!--       {%- for section in site.content_works -%}
-        <div class="container {{ section.layout }}-container-projects">
-          <h3>{{ section.title }}</h3>
-          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
-        </div>
-      {%- endfor -%} -->
       {%- for section in site.content_works -%}
         <div class="container {{ section.layout }}-container-works">
           <h3>{{ section.title }}</h3>
@@ -48,6 +36,20 @@
           {%- endfor -%}
         </div>
       {%- endfor -%}
+      
+      {%- for section in site.content_projects -%}
+        <div class="container {{ section.layout }}-container-projects">
+          <h3>{{ section.title }}</h3>
+          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+        </div>
+      {%- endfor -%}
+<!--       {%- for section in site.content_works -%}
+        <div class="container {{ section.layout }}-container-projects">
+          <h3>{{ section.title }}</h3>
+          {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+        </div>
+      {%- endfor -%} -->
+    
       
     </div
   </main>

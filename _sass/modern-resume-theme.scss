@@ -16,6 +16,10 @@
   transition: background-color 0.3s ease;
 }
 
+.custom-link:hover {
+  background-color: #333333; /* Darker color on hover */
+}
+
 .header-right p {
   margin-bottom: 3px;
 }

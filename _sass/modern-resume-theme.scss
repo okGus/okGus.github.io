@@ -7,18 +7,21 @@
 .custom-link {
   display: inline-block;
   padding: 8px 16px;
-  background-color: #4b4b4b; /* LinkedIn blue color */
-  color: #ffffff; /* White text color */
+  background-color: #ffffff; /* White background */
+  color: #4b4b4b; /* Gray text color */
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
+  border: 1px solid #000000; /* Black border */
   border-radius: 4px;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, border 0.3s ease;
 }
 
 .custom-link:hover {
-  background-color: #333333; /* Darker color on hover */ 
+  background-color: #f0f0f0; /* Lighter gray background on hover */
+  border: 2px solid #000000; /* Bolder border on hover */
 }
+
 
 .header-right p {
   margin-bottom: 3px;

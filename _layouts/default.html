@@ -12,13 +12,7 @@
       
       {%- include about.html -%}
       {%- include education.html -%}
-
-      {%- for section in site.content_certs -%}
-         <div class="container {{ section.layout }}-container-certs">
-           <h3>{{ section.title }}</h3>
-         </div>
-      {%- endfor -%}
-      
+      {%- include certificates.html -%}
       {%- include workingon.html -%}
       
 <!--       {%- for section in site.content -%}

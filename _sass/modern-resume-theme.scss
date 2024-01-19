@@ -4,8 +4,11 @@
 @import "dark";
 @import "icons";
 
+.custom-link,
 .custom-link:link,
-.custom-link:hover {
+.custom-link:visited,
+.custom-link:hover,
+.custom-link:active {
   text-decoration: none;
   color: #4b4b4b;
 }

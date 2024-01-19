@@ -4,6 +4,11 @@
 @import "dark";
 @import "icons";
 
+.custom-link:link,
+.custom-link:hover {
+  text-decoration: none;
+}
+
 .custom-link {
   display: inline-block;
   padding: 8px 16px;
@@ -20,7 +25,6 @@
 .custom-link:hover {
   background-color: #f0f0f0; /* Lighter gray background on hover */
   border: 2px solid #000000; /* Bolder border on hover */
-  text-decoration: none;
 }
 
 

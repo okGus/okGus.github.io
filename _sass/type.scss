@@ -29,11 +29,11 @@ a {
   color: #477dca;
   transition: color 150ms ease;
 }
-// a:active,
-// a:focus,
-// a:hover {
-// color: #355e98;
-// }
+a:active,
+a:focus,
+a:hover {
+color: #355e98;
+}
 
 h1 {
   font-size: 4rem;

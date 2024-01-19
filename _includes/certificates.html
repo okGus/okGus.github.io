@@ -2,14 +2,14 @@
   <h3>{{ site.certifications_title | default: "Certifications" }}</h3>
   <div class="row clearfix">
     <div class="{{ 'col-xs-6 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
-<!--       <h1>
-        {{ site.certification | strip | markdownify }}
-      </h1> -->
+      <h1>
+        {{ site.cert_one | strip | markdownify }}
+      </h1>
     </div>
     <div class="{{ 'col-xs-6 text-right' }}">
-<!--       <h2>
-        {{ site.issue_date | strip | markdownify | remove: '<p>' | remove: '</p>' }}
-      </h2> -->
+      <h2>
+        {{ site.issue_date_one | strip | markdownify | remove: '<p>' | remove: '</p>' }}
+      </h2>
     </div>
   </div>
 </div>

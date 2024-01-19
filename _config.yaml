@@ -40,12 +40,10 @@ education: |+
     
     B.S. Computer Science
 
-cert_one: |+
-  Cloud Computing Fundamentals
-
-  IBM
+cert_one: Cloud Computing Fundamentals
 issuer_one: IBM
-issuer_one_link: wip
+issuer_one_link_text: Show Credential
+issuer_one_link: https://www.credly.com/badges/ea092da6-cc42-4009-a7dd-4a81ccc2182b/linked_in_profile
 issue_date_one: Issued Jan 2024
 
 content_projects:          

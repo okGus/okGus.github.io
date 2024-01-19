@@ -5,7 +5,15 @@
 @import "icons";
 
 .custom-link {
-  outline: solid;
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #0073b1; /* LinkedIn blue color */
+  color: #ffffff; /* White text color */
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
 }
 
 .header-right p {

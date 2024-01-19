@@ -161,14 +161,14 @@ content_works:
           - Learned in-demand technologies like Python 3, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA)  
           - Utilized industry best practices such as feature engineering and machine learning techniques to create 2 applications, RealOrFake and ASL Gesture Recognition
           - Live demoed RealOrFake app with team of 2 in front 20+ students and technical partners
-content_certs:
-  - title: Certifications
-    layout: list
-    content:
-      - title: Cloud Computing Fundamentals
-      - issuer: IBM
-      - issue_date: Jan 2024
-      - link: wip
+# content_certs:
+#   - title: Certifications
+#     layout: list
+#     content:
+#       - title: Cloud Computing Fundamentals
+#       - issuer: IBM
+#       - issue_date: Jan 2024
+#       - link: wip
 # About Section
 #about_content: | # this will include new lines to allow paragraphs
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.

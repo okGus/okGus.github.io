@@ -45,11 +45,11 @@ content_projects:
     layout: list
     content:
       - layout: left
-        title: Algorithm Visualizer (WIP)
+        title: Algorithm Visualizer
         link: https://github.com/okGus/AlgoVisualizer
         link_text: GH Link
         description: |+
-          Visualization of the most common and known algorithms like Bubble sort, Count Sort, Merge Sort, and Dijkstr\'s Algorithm
+          Visualization of the most common and known algorithms like Bubble sort, Count Sort, Merge Sort, and Dijkstra\'s Algorithm
       - layout: left
         title: Unofficial Twitch API
         link: https://github.com/okGus/rapidTwitchAPI

@@ -1,6 +1,6 @@
 <div class="container certificates-container">
   <h3>{{ site.certifications_title | default: "Certifications" }}</h3>
-  <div class="row clearfix">
+  <div class="row clearfix"> <!-- start row clearfix -->
     <div class="{{ 'col-xs-6 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       <h1>
         {{ site.cert_one | strip | markdownify }}
@@ -15,7 +15,8 @@
         {{ site.issue_date_one | strip | markdownify | remove: '<p>' | remove: '</p>' }}
       </h2>
     </div>
-
+  </div>                     <!-- end row clearfix -->
+  <div class="row clearfix"> <!-- start row clearfix -->
     <div class="{{ 'col-xs-6 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       <h1>
         {{ site.cert_two | strip | markdownify }}
@@ -30,5 +31,5 @@
         {{ site.issue_date_two | strip | markdownify | remove: '<p>' | remove: '</p>' }}
       </h2>
     </div>
-  </div>
+  </div>                    <!-- start row clearfix -->
 </div>

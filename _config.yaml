@@ -108,7 +108,7 @@ content_projects:
       - layout: left
         title: RealorFake
         link: https://github.com/okGus/realorfake
-        link_test: GH Link
+        link_text: GH Link
         description: |+
           Developed a web application between October and December 2021
           

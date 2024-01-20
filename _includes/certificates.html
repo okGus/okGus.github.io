@@ -8,11 +8,26 @@
       <h2>
         {{ site.issuer_one | strip | markdownify }}
       </h2>
-      <a href="{{ site.issuer_one_link }}" target="_blank" class="custom-link">{{ site.issuer_one_link_text }}</a>
+      <a href="{{ site.issuer_one_link }}" target="_blank" class="custom-link">{{ site.issuer_link_text }}</a>
     </div>
     <div class="{{ 'col-xs-6 text-right' }}">
       <h2>
         {{ site.issue_date_one | strip | markdownify | remove: '<p>' | remove: '</p>' }}
+      </h2>
+    </div>
+
+    <div class="{{ 'col-xs-6 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      <h1>
+        {{ site.cert_two | strip | markdownify }}
+      </h1>
+      <h2>
+        {{ site.issuer_two | strip | markdownify }}
+      </h2>
+      <a href="{{ site.issuer_two_link }}" target="_blank" class="custom-link">{{ site.issuer_link_text }}</a>
+    </div>
+    <div class="{{ 'col-xs-6 text-right' }}">
+      <h2>
+        {{ site.issue_date_two | strip | markdownify | remove: '<p>' | remove: '</p>' }}
       </h2>
     </div>
   </div>

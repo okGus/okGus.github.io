@@ -40,11 +40,17 @@ education: |+
     
     B.S. Computer Science
 
+issuer_link_text: Show Credential
+
 cert_one: Cloud Computing Fundamentals
 issuer_one: IBM
-issuer_one_link_text: Show Credential
 issuer_one_link: https://www.credly.com/badges/ea092da6-cc42-4009-a7dd-4a81ccc2182b/linked_in_profile
 issue_date_one: Issued Jan 2024
+
+cert_two: Google Cybersecurity Certificate, Coursera
+issuer_two: Google
+issuer_two_link: https://www.credly.com/badges/230ef4f5-ef9c-4bd9-8296-775b35c37ba4/public_url
+issue_date_two: Issued Dec 2023
 
 content_projects:          
   - title: Projects

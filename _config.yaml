@@ -52,6 +52,11 @@ issuer_two: Google
 issuer_two_link: https://www.credly.com/badges/230ef4f5-ef9c-4bd9-8296-775b35c37ba4/public_url
 issue_date_two: Issued Dec 2023
 
+cert_three: AWS Educate Getting Started with Storage
+issuer_three: Amazon Web Services (AWS)
+issuer_three_link: https://www.credly.com/badges/800d6111-baf4-42a8-a4d5-197efc28e372/linked_in_profile
+issue_date_three: Issued Jun 2023
+
 content_projects:          
   - title: Projects
     layout: list
